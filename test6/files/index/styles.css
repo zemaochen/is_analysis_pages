@@ -2557,14 +2557,14 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:300px;
-  height:98px;
+  width:194px;
+  height:45px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
+  border-color:rgba(255, 255, 255, 1);
   border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -2575,9 +2575,9 @@
   border-width:0px;
   position:absolute;
   left:100px;
-  top:1051px;
-  width:300px;
-  height:98px;
+  top:484px;
+  width:194px;
+  height:45px;
   display:flex;
   color:#0000FF;
 }
